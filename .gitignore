@@ -2,4 +2,11 @@
 *env*
 
 # jupyter notebook
-*checkpoint.ipynb
+.ipynb_checkpoint*
+
+# misc python files
+__pycache__
+
+# Jupyter Book
+_build
+
