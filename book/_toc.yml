@@ -9,6 +9,9 @@ chapters:
   sections:
     - file: pandas/00-pandas_intro/notebook
     - file: pandas/01-reading_excel/notebook
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: jb-book-starter/intro
+  sections:
+    - file: jb-book-starter/markdown
+    - file: jb-book-starter/notebooks
+    - file: jb-book-starter/markdown-notebooks
+
