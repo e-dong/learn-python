@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: automate_the_boring_stuff/screen.ipynb
+- file: pandas/intro
+  sections:
+    - file: pandas/00-pandas_intro/notebook
+    - file: pandas/01-reading_excel/notebook
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
