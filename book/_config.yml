@@ -10,6 +10,12 @@ logo: logo.png
 execute:
   execute_notebooks: force
 
+# Merge streams from stdout/stderr
+# See https://jupyterbook.org/en/stable/content/execute.html#merging-stdout-and-stderr-output
+sphinx:
+  config:
+    nb_merge_streams: true
+
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
