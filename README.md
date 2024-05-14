@@ -13,5 +13,5 @@ Resource for those learning python deployed to Github Pages using Jupyter-Book.
 1. `jupyter-book build ./book`
 
 ### Starting Jupyterlab locally
-1. `jupyter-lab
+1. `jupyter-lab`
 
