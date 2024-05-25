@@ -4,7 +4,10 @@
 format: jb-book
 root: intro
 chapters:
-- file: automate_the_boring_stuff/screen.ipynb
+- file: automate_the_boring_stuff/screen
+- file: automate_the_boring_stuff/intro
+  sections:
+    - file: automate_the_boring_stuff/dictionaries/notebook
 - file: pandas/intro
   sections:
     - file: pandas/00-pandas_intro/notebook
