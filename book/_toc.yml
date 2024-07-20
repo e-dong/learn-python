@@ -8,6 +8,7 @@ chapters:
 - file: automate_the_boring_stuff/intro
   sections:
     - file: automate_the_boring_stuff/dictionaries/notebook
+    - file: automate_the_boring_stuff/file_io/notebook
 - file: pandas/intro
   sections:
     - file: pandas/00-pandas_intro/notebook
