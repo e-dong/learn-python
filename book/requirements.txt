@@ -2,4 +2,4 @@ jupyter-book
 jupyterlab
 matplotlib
 numpy
-
+openpyxl
