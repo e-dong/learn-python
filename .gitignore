@@ -10,3 +10,5 @@ __pycache__
 # Jupyter Book
 _build
 
+# Excel files
+*.xlsx
